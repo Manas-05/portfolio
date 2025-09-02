@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "PawsParadise",
+    "description": "A pet Adoption Website which helps users find their perfect pet by providing a user-friendly interface and a comprehensive database of adoptable pets.",
+    "images": [
+      "/public/ss1.jpg",
+      "/public/ss2.jpg",
+      "/public/ss3.jpg",
+      "/public/ss4.jpg",
+      "/public/ss5.jpg",
+      "/public/ss6.jpg",
+      "/public/ss7.jpg",
+      "/public/ss8.jpg"
+    ],
+    "github": "https://github.com/yourusername/portfolio"
+  }
+  
+]
