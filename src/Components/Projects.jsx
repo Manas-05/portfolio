@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import projects from "./projects.json";
+import projects from "./Projects.json";
 
 const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(null);
